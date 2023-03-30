@@ -86,9 +86,9 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 	77
 ```
 
-## Author
+## Author :black_nib:
 
-[David Atat](www.github.com/daveeazi)
+[Prince Solomon](www.github.com/princexz)
 
 ## Resources
 
